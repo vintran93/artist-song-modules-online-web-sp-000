@@ -33,7 +33,5 @@ class Artist
     songs.each { |song| add_song(song) }
   end
 
-  #ef to_param
-    #ame.downcase.gsub(' ', '-')
-  #end
+
 end
