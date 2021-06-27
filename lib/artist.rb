@@ -34,5 +34,5 @@ class Artist
 
   #ef to_param
     #ame.downcase.gsub(' ', '-')
-  #nd
+  #end
 end
